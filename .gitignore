@@ -1,0 +1,8 @@
+__pycache__/
+*.log
+*.pyc
+beautifulsoup4
+html5lib
+HTMLValidator
+ValidationError
+Logger
